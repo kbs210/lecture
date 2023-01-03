@@ -16,6 +16,7 @@ public class MemberApp {
         System.out.println("new Member = " + member.getName());
         System.out.println("find Member = " + findMember.getName());
 
+        // 맥북 환경 설정
     }
 
 }
